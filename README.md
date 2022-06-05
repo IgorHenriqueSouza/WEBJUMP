@@ -8,7 +8,12 @@
 
 # Como executar o teste utilizando cypress
 ## Pré requisitos:
-° Nodejs
-° Editor de código
-° Cypress
+* Nodejs,
+* Editor de código,
+* Cypress
+
+## Comando para instalar o cypress
+```
+  npm install cypress --save-dev
+```
 

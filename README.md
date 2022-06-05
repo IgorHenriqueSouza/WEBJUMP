@@ -12,8 +12,17 @@
 * Editor de código,
 * Cypress
 
-## Comando para instalar o cypress
+## Comando para instalar o cypress:
 ```
   npm install cypress --save-dev
+```
+## Para executar o cypress rode o comando:
+### Windows:
+```
+npx cypress open
+```
+### Linux:
+```
+npm cypress open
 ```
 

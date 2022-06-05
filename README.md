@@ -27,8 +27,10 @@ npm cypress open
 ```
 ## Dashboard Cypress
 
+1 Clique em E2E Testing
 ![image](https://user-images.githubusercontent.com/50705825/172053537-c4ea1836-d5c6-4baa-bc86-f6e45d31b9d5.png)
 
-### Clique em E2E Testing
+
+
 
 
